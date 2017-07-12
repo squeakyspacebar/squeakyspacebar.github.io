@@ -27,7 +27,7 @@ thread), the ranlib error message was preceded by this (my issue was similar):
 make[3]: Nothing to be done for `install-exec-am'.
 test -z "/usr/lib/enlightenment/preload" || mkdir -p --
 "/usr/lib/enlightenment/preload"
- /bin/sh ../../libtool --mode=install /usr/local/bin/install -c 
+ /bin/sh ../../libtool --mode=install /usr/local/bin/install -c
 'e_precache.la' '/usr/lib/enlightenment/preload/e_precache.la'
 /usr/local/bin/install -c .libs/e_precache.so
 /usr/lib/enlightenment/preload/e_precache.so
