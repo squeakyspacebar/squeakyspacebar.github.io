@@ -2,6 +2,7 @@
 layout: post
 title: "Diagnosing Broken Neural Network Training: A Small Case Study"
 date: 2017-06-22
+comments: true
 ---
 
 ## Background

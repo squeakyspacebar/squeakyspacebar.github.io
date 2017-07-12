@@ -2,6 +2,7 @@
 layout: post
 title:  Procedural Terrain Generation With Voronoi Diagrams
 date:   2017-07-12
+comments: true
 ---
 
 ## Introduction

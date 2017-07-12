@@ -2,6 +2,7 @@
 layout: post
 title: "Using Active Directory Authentication with Mantis Bug Tracker and Ants"
 date: 2011-08-01
+comments: true
 ---
 
 I've recently been working on getting ANTS (an applicant tracking system based

@@ -22,6 +22,10 @@ url: "http://squeakyspacebar.github.io/" # the base hostname & protocol for your
 twitter_username: squeakyspacebar
 github_username:  squeakyspacebar
 
+# Disqus settings
+disqus:
+    shortname: squeakyspacebar
+
 # Build settings
 markdown: kramdown
 theme: 

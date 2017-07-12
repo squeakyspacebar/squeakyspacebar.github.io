@@ -2,6 +2,7 @@
 layout: post
 title: "ranlib Issue While Using CheckInstall"
 date: 2012-07-10
+comments: true
 ---
 I've been using [CheckInstall](http://asic-linux.com.mx/~izto/checkinstall/)
 regularly now as a handy tool to keep track of all my source installations, but
